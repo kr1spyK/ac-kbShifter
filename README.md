@@ -11,7 +11,7 @@ At first I was going to fork and change its input to use positional keycodes, bu
 Going with ViGEmBus becuase the script can create an emulated controller seamlessly, no extra setup steps needed like with vJoy.
 ## Notes
 - ViGEmBus is deprecated as of v1.22 Nov 2023 but I will continue to use its framework until it doesn't work anymore or a successor is released.
-- Interested in AC app development? [See my references in the wiki](https://github.com/kr1spyK/ac-kbShifter/wiki)
+- Interested in AC app development? [Here's my resources](https://github.com/kr1spyK/ac-kbShifter/wiki)
 ## Credits
 - levamak, for creating a universal [keyboard H-shifter][1] app.
 
