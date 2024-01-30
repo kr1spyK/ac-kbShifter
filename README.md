@@ -1,7 +1,7 @@
 # ac-kbShifter
 An Assetto Corsa app to use your keyboard as an H-shifter. Intended to use your numpad as a controller input for various H-shifter patterns e.g., 4R, 6R, direct select 9.
 ## Installation
-Drag .zip file into Content Manager and click install, or manually paste the contents of the .zip in the root folder of your Assetto Corsa installation. After install, the app must be activated in your AC settings.
+Drag .zip file into Content Manager and click install, or manually paste the contents of the .zip in the root folder of your Assetto Corsa installation. After install, activate it in your AC settings.
 ## Configuration
 bottom text
 ## Why?
